@@ -43,7 +43,7 @@
 
 .app form input {
   border: none;
-  background-color: #fbc900;
+  background-color: #ffffff;
   font-size: 18px;
   color: white;
   padding: 10px;
@@ -68,7 +68,7 @@
 
 .app ul li {
   padding: 10px;
-  background-color: #262e4c;
+  background-color: #f00d0d;
   border-bottom: 1px solid #3a4674;
 }
 
